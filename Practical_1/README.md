@@ -24,10 +24,10 @@ Problem statement: Write a C program to display the following patterns:<br>
   A B C B A<br>
 A B C D C B A<br>
 Objective:
-To understand the use of nested loops in C programming.
-To apply control structures (for/while loops and conditionals) for problem solving.
-To develop logic for generating structured output in tabular/pattern form.
-To practice basic programming constructs used in implementing data structures.
+To understand the use of nested loops in C programming.<br>
+To apply control structures (for/while loops and conditionals) for problem solving.<br>
+To develop logic for generating structured output in tabular/pattern form.<br>
+To practice basic programming constructs used in implementing data structures.<br>
 Algorithm/approach
 Data structure/concept used
 Test cases
