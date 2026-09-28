@@ -1,6 +1,6 @@
 <b>Practical title:</b> Program to display different patterns using numbers, alphabets, and asterisks.<br>
 <b>Problem statement:</b> Write a C program to display the following patterns:<br>
-<img width="655" height="730" alt="Screenshot 2026-09-28 124538" src="https://github.com/user-attachments/assets/8db43703-1d2e-4b66-8ec9-6317d46a4eaf" />
+<img width="655" height="730" alt="Screenshot 2026-09-28 124538" src="https://github.com/user-attachments/assets/8db43703-1d2e-4b66-8ec9-6317d46a4eaf" /><br>
 <b>Objective:</b><br>
 1. To understand the use of nested loops in C programming.<br>
 2. To apply control structures (for/while loops and conditionals) for problem solving.<br>
@@ -13,3 +13,4 @@ Sample input and output
 Time complexity
 Space complexity
 Conclusion
+[exp2.pdf](https://github.com/user-attachments/files/32731281/exp2.pdf)
