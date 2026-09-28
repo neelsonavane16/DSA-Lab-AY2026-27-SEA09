@@ -1,33 +1,11 @@
 <b>Practical title:</b> Program to display different patterns using numbers, alphabets, and asterisks.<br>
-Problem statement: Write a C program to display the following patterns:<br>
-1. Right-angle triangle with numbers<br>
-\\\1<br>
-\\1 2<br>
-\1 2 3<br>
-1 2 3 4<br>
-2. Diamond shape with numbers<br>
-   1<br>
-  2 2<br>
- 3 3 3<br>
-4 4 4 4<br>
- 3 3 3<br>
-  2 2<br>
-   1<br>
-3. Pyramid with asterisks (*)<br>
-   *<br>
-  * *<br>
- * * *<br>
-* * * *<br>
-4. Pyramid using alphabets<br>
-      A<br>
-    A B A<br>
-  A B C B A<br>
-A B C D C B A<br>
-Objective:<br>
-To understand the use of nested loops in C programming.<br>
-To apply control structures (for/while loops and conditionals) for problem solving.<br>
-To develop logic for generating structured output in tabular/pattern form.<br>
-To practice basic programming constructs used in implementing data structures.<br>
+<b>Problem statement:</b> Write a C program to display the following patterns:<br>
+<img width="655" height="730" alt="Screenshot 2026-09-28 124538" src="https://github.com/user-attachments/assets/8db43703-1d2e-4b66-8ec9-6317d46a4eaf" />
+<b>Objective:</b><br>
+1. To understand the use of nested loops in C programming.<br>
+2. To apply control structures (for/while loops and conditionals) for problem solving.<br>
+3. To develop logic for generating structured output in tabular/pattern form.<br>
+4. To practice basic programming constructs used in implementing data structures.<br>
 Algorithm/approach
 Data structure/concept used
 Test cases
