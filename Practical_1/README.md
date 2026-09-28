@@ -7,8 +7,10 @@
 3. To develop logic for generating structured output in tabular/pattern form.<br>
 4. To practice basic programming constructs used in implementing data structures.<br>
 Algorithm:<br>
+<img width="376" height="512" alt="Screenshot 2026-09-28 131624" src="https://github.com/user-attachments/assets/bd1d89ed-ccf1-4db8-a909-ef8eef23883c" /><br>
 Data structure/concept used
-Test cases
+Test cases:
+
 Sample input and output
 Time complexity
 Space complexity
