@@ -1,9 +1,9 @@
 <b>Practical title:</b> Program to display different patterns using numbers, alphabets, and asterisks.<br>
 Problem statement: Write a C program to display the following patterns:<br>
 1. Right-angle triangle with numbers<br>
-1<br>
-1 2<br>
-1 2 3<br>
+\\\1<br>
+\\1 2<br>
+\1 2 3<br>
 1 2 3 4<br>
 2. Diamond shape with numbers<br>
    1<br>
