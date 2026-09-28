@@ -1,3 +1,4 @@
+// Pyramid using alphabets
 #include<stdio.h>
 void main(){
     int n = 4;
