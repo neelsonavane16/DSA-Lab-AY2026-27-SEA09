@@ -1,3 +1,4 @@
+<img width="794" height="794" alt="photo" src="https://github.com/user-attachments/assets/ada62adf-8fd3-4b6f-be53-b5760fc9f2e0" />
 Practical title: Program to display different patterns using numbers, alphabets, and asterisks.<br>
 Problem statement: Write a C program to display the following patterns:<br>
 1. Right-angle triangle with numbers<br>
